@@ -32,8 +32,8 @@ Aidai Elbekova
     ```sh
     git clone https://github.com/yourusername/kindergarten-analysis.git
     ```
-2. Set your working directory to the location of the `assignment_3.R` file.
-3. Execute the `assignment_3.R` script in R.
+2. Set your working directory to the location of the `Assignment_3Elbekova.R` file.
+3. Execute the `Assignment_3Elbekova.R` script in R.
 
 ## Data
 Ensure the `kindergarten.csv` dataset is available in the same directory as the R script.
